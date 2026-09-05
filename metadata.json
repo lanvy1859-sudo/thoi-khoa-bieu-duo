@@ -1,6 +1,0 @@
-{
-  "name": "Thời Khóa Biểu Xinh - Aesthetic Timetable",
-  "description": "Thời khóa biểu cá nhân hóa phong cách Canva dễ thương, tinh tế từ Thứ 2 đến Chủ nhật với các tiết học sáng, chiều, tối và tích hợp Supabase database.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
